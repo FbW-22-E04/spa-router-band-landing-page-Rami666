@@ -1,5 +1,5 @@
 import Metallica from "./Metallica";
-
+import './index.css';
 
 function App() {
   return (
